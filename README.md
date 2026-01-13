@@ -28,7 +28,7 @@ I’m currently seeking a **Full Stack Developer Internship / Entry-Level role**
 - React.js  
 - JavaScript (ES6+)  
 - HTML5, CSS3  
-- Bootstrap / Tailwind CSS  
+- Tailwind CSS  
 - Responsive Web Design  
 
 ### ⚙️ Backend
