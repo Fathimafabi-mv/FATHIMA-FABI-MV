@@ -22,7 +22,7 @@ I’m currently seeking a **Full Stack Developer Internship / Entry-Level role**
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 </p>
 
 - React.js  
